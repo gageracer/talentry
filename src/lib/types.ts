@@ -1,4 +1,4 @@
-import type { signinTable } from './server/database/schema';
+import type { signinTable } from "./server/database/schema";
 
 export type Link = {
 	name: string;
